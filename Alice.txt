@@ -1,3 +1,7 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 There is now text on this lovely second line
+<<<<<<< HEAD
 Editing this file makes it look more and more full
+=======
+this edit from the website
+>>>>>>> 938cfdc663beeaaa4234690cbe799892603cff1c
