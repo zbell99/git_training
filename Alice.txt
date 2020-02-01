@@ -3,4 +3,6 @@ There is now text on this lovely second line
 Editing this file makes it look more and more full
 Conflict creator
 alice be in wonderland tho
+Interactive Rebase again yeahhhhh
+Interactive Rebase baby
 I like conflict
